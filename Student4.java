@@ -13,6 +13,7 @@ public class Student4 {
 		//creating abjects and passing values
 		student4 s1= new student4(111,"kavya");
 		student4 s2= new student4(222,"arya");
+		student4 s3= new student4(333, "mahesh");
 		//calling methods to dispay the value of object
 		s1.display();
 		s2.display();
